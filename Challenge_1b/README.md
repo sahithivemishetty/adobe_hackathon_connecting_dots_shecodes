@@ -372,25 +372,4 @@ Output format compliant	    Yes
 
 
 
-##### Folder Structure
-
-
-
-.
-
-├── main.py
-
-├── persona.json
-
-├── requirements.txt
-
-├── Dockerfile
-
-├── approach\_explanation.md
-
-├── input/                 # Place input PDFs here
-
-├── output/                # Output JSON files
-
-└── README.md              # This file
 
